@@ -1,0 +1,53 @@
+{
+  "grid": [
+    {
+      "id": 1,
+      "title": "Introdução aos Jogos Eletrônicos e e-Sports",
+      "description": "Explore a evolução dos jogos e o impacto dos e-sports no cenário esportivo mundial.",
+      "image": "/joistick.png",
+      "duration": "30 horas"
+    },
+    {
+      "id": 2,
+      "title": "O Universo dos e-Sports",
+      "description": "Conheça os principais gêneros dos e-sports e o mercado em expansão para atletas digitais.",
+      "image": "/globe.png",
+      "duration": "30 horas"
+    },
+    {
+      "id": 3,
+      "title": "Pro Player de Respeito:Éticas no Ambiente Digital",
+      "description": "Construa sua reputação gamer com ética, respeito, segurança e responsabilidade online.",
+      "image": "/joistick.png",
+      "duration": "30 horas"
+    },
+    {
+      "id": 4,
+      "title": "Na Mira das Apostas: Match-fixing nos e-Sports ",
+      "description": "Veja os riscos da manipulação de resultados e como defender a integridade nos jogos.",
+      "image": "/coins.png",
+      "duration": "30 horas"
+    },
+    {
+      "id": 5,
+      "title": "Criação de Conteúdo em Plataformas Digitais ",
+      "description": "Descubra como criar, engajar e monetizar conteúdos em streaming e redes sociais.",
+      "image": "/mic.png",
+      "duration": "30 horas"
+    },
+    {
+      "id": 6,
+      "title": "Tecnologia Aplicada aos e-Sports",
+      "description": "Domine equipamentos, ferramentas e plataformas que impulsionam os e-Sports.",
+      "image": "/computer.png",
+      "duration": "30 horas"
+    },
+    {
+      "id": 7,
+      "title": "Level Up: Inglês para Gamers ",
+      "description": "Aprenda inglês de forma prática com vocabulário, chats e situações do universo gamer.",
+      "image": "/book.png",
+      "duration": "30 horas"
+    }
+  ]
+}

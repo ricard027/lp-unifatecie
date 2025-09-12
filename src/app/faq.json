@@ -1,0 +1,66 @@
+{
+  "faq": [
+    {
+      "id": 1,
+      "title": "Sobre os cursos",
+      "questions": [
+        {
+          "question": "O que vou aprender?",
+          "answer": "Você aprenderá sobre e-Sports, criação de conteúdo para games, tecnologia aplicada aos jogos, estratégias competitivas, gestão de equipes gamer e muito mais. Cada curso tem foco prático para preparar você para o mercado profissional."
+        },
+        {
+          "question": "Quem pode participar?",
+          "answer": "A formação é destinada a jovens de 15 a 29 anos de todo o Brasil. Não é necessário ter experiência prévia com games ou e-Sports - os cursos são pensados para iniciantes e também para quem já tem conhecimento básico."
+        },
+        {
+          "question": "O formato é online ou presencial?",
+          "answer": "100% online! Você pode estudar de qualquer lugar do Brasil, no seu próprio ritmo e horário. As aulas ficam disponíveis 24 horas por dia na plataforma digital."
+        },
+        {
+          "question": "Receberei certificado?",
+          "answer": "Sim! Cada curso oferece certificado digital reconhecido de 30 horas. Os certificados são válidos em todo o território nacional e podem ser utilizados para comprovar suas competências no mercado de trabalho."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Inscrições e acesso",
+      "questions": [
+        {
+          "question": "Como faço para me inscrever?",
+          "answer": "As inscrições são feitas através do nosso site oficial. Basta preencher o formulário com seus dados pessoais e aguardar a confirmação. O processo é simples e rápido!"
+        },
+        {
+          "question": "Preciso pagar para participar?",
+          "answer": "Não! A formação é completamente gratuita. É uma iniciativa do Governo Federal em parceria com a Unifatecie para democratizar o acesso à educação digital em e-Sports."
+        },
+        {
+          "question": "Até quando posso me inscrever?",
+          "answer": "As inscrições ficam abertas durante todo o período da formação. Recomendamos que você se inscreva o quanto antes para garantir sua vaga e começar a estudar imediatamente."
+        },
+        {
+          "question": "Por quanto tempo terei acesso?",
+          "answer": "Você terá acesso aos cursos por 6 meses após a inscrição. Durante esse período, pode assistir às aulas quantas vezes quiser e baixar o material de apoio."
+        },
+        {
+          "question": "Como funciona o acesso às aulas?",
+          "answer": "Após a inscrição, você receberá um login e senha para acessar nossa plataforma digital. Lá você encontrará todas as aulas organizadas por módulos, materiais de apoio e atividades práticas."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Suporte e acompanhamento",
+      "questions": [
+        {
+          "question": "Haverá professores ou tutores para tirar dúvidas?",
+          "answer": "Sim! Nossa equipe pedagógica está sempre disponível para esclarecer dúvidas. Você pode entrar em contato através do chat da plataforma, fóruns de discussão ou por e-mail."
+        },
+        {
+          "question": "Com quem falo em caso de problemas técnicos?",
+          "answer": "Nossa equipe de suporte técnico está disponível para ajudar com qualquer problema relacionado ao acesso à plataforma, vídeos que não carregam, problemas de login ou outras questões técnicas."
+        }
+      ]
+    }
+  ]
+}
