@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Hero() {
   return (
@@ -17,9 +18,11 @@ export default function Hero() {
           <p className="text-lg sm:text-2xl">
             Cursos para os jovens que vão liderar o futuro dos games.
           </p>
-          <button className="text-white rounded-xl bg-gradient-to-r from-primary-100 via-primary-200 to-primary-300 hover:from-primary-200 hover:via-primary-300 hover:to-primary-100 py-3 font-semibold cursor-pointer px-6 mt-10 text-lg sm:text-xl transition-all duration-300">
-            MATRICULE-SE JÁ!
-          </button>
+          <Link href="/inscricao">
+            <button className="text-white rounded-xl bg-gradient-to-r from-primary-100 via-primary-200 to-primary-300 hover:from-primary-200 hover:via-primary-300 hover:to-primary-100 py-3 font-semibold cursor-pointer px-6 mt-10 text-lg sm:text-xl transition-all duration-300">
+              MATRICULE-SE JÁ!
+            </button>
+          </Link>
         </div>
         <div className="mt-10 sm:mt-0">
           <Image
